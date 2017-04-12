@@ -1,0 +1,24 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mohan5070@github.com/mohan5070/chat-application.git"
+  },
+  "author": "mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan5070/chat-application/issues"
+  },
+  "homepage": "https://github.com/mohan5070/chat-application#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}
